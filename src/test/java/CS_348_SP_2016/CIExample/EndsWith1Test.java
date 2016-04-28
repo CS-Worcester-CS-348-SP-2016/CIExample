@@ -9,7 +9,7 @@ public class EndsWith1Test {
 	@Test
 	public void testToString() {
 		EndsWith1 one = new EndsWith1();
-		assertEquals("EndsWith1 [names=Akwasi Agyemang\n]", one.toString());
+		assertEquals("EndsWith1 [names=Akwasi Agyemang\nGautam Batra]", one.toString());
 	}
 
 }
