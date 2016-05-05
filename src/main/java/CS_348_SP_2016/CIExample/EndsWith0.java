@@ -11,6 +11,7 @@ public class EndsWith0 {
 		names += "Danny Barbara\n";
 		names += "Chris Hanson\n";
 		names += "Patrick Graham\n";
+		names += "Adam Scerra\n";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n"
 	}
